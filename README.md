@@ -1,4 +1,4 @@
-# Register No: 212222040108
+
 # Ex.No:1 a.) Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 ## AIM:
@@ -29,8 +29,8 @@ Step 7: Save and run the application.
  ```
 /*
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
-Developed by: MADHUMTIHA M
-RegisterNumber:  212222220020
+Developed by: NIVESHA P
+RegisterNumber:  212222040108
 */
 ```
 
